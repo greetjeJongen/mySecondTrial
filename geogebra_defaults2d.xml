@@ -3,6 +3,7 @@
 <defaults>
 <element type="point" label="Point (free)" default="10">
 	<show object="true" label="true"/>
+	<show object="true" label="true"/>
 	<objColor r="77" g="77" b="255" alpha="0"/>
 	<layer val="0"/>
 	<autocolor val="false"/>
